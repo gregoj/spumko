@@ -16,6 +16,15 @@ Current version: **0.14.2**
 
 ## Utilities
 
+###<a href="https://github.com/spumko/boom"><img src="https://raw.github.com/spumko/boom/master/images/boom.png" height="125" alt="Boom Logo" /></a>
+HTTP-friendly error objects
+
+Current version: **0.3.6**
+
+[![Build Status](https://secure.travis-ci.org/spumko/boom.png)](http://travis-ci.org/spumko/boom)
+
+***
+
 ###<a href="https://github.com/spumko/catbox"><img src="https://raw.github.com/spumko/catbox/master/images/catbox.png" height="155" alt="Catbox Logo" /></a>
 Multi-strategy object caching service
 
@@ -72,7 +81,7 @@ Current version: **0.1.6**
 
 ***
 
-###<a href="https://github.com/spumko/local"><img src="https://raw.github.com/spumko/local/master/images/local.png" height="155" alt="Local Logo" /></a>
+###<a href="https://github.com/spumko/local"><img src="https://raw.github.com/spumko/local/master/images/local.png" height="145" alt="Local Logo" /></a>
 Express to hapi bridge plugin
 
 Current version: **0.0.1**
@@ -90,7 +99,7 @@ Current version: **0.2.1**
 
 ***
 
-###<a href="https://github.com/spumko/scooter"><img src="https://raw.github.com/spumko/scooter/master/images/scooter.png" height="155" alt="Scooter Logo" /></a>
+###<a href="https://github.com/spumko/scooter"><img src="https://raw.github.com/spumko/scooter/master/images/scooter.png" height="145" alt="Scooter Logo" /></a>
 User-agent information plugin for hapi
 
 Current version: **0.1.1**
@@ -105,3 +114,12 @@ Interactive debug console for [**hapi**](https://github.com/spumko/hapi)
 Current version: **0.1.2**
 
 [![Build Status](https://secure.travis-ci.org/spumko/tv.png)](http://travis-ci.org/spumko/tv)
+
+***
+
+###<a href="https://github.com/spumko/yar"><img src="https://raw.github.com/spumko/yar/master/images/yar.png" height="135" alt="Yar Logo" /></a>
+Cookie jar plugin
+
+Current version: **0.1.2**
+
+[![Build Status](https://secure.travis-ci.org/spumko/yar.png)](http://travis-ci.org/spumko/yar)
