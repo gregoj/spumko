@@ -13,9 +13,17 @@ Current version: **0.14.2**
 
 [![Build Status](https://secure.travis-ci.org/spumko/hapi.png)](http://travis-ci.org/spumko/hapi)
 
-***
 
 ## Utilities
+
+###<a href="https://github.com/spumko/faketoe"><img src="https://raw.github.com/spumko/faketoe/master/images/faketoe.png" height="70" alt="Faketoe Logo" /></a>
+XML to JSON converter
+
+Current version: **0.0.5**
+
+[![Build Status](https://secure.travis-ci.org/spumko/faketoe.png)](http://travis-ci.org/spumko/faketoe)
+
+***
 
 ###<a href="https://github.com/spumko/hoek"><img src="https://raw.github.com/spumko/hoek/master/images/hoek.png" height="85" alt="Hoek Logo" /></a>
 General purpose node utilities
@@ -35,6 +43,14 @@ Current version: **0.1.3**
 [![Build Status](https://secure.travis-ci.org/spumko/joi.png)](http://travis-ci.org/spumko/joi)
 
 ## Plugins
+
+###<a href="https://github.com/spumko/good"><img src="https://raw.github.com/spumko/good/master/images/good.png" height="145" alt="Good Logo" /></a>
+[**hapi**](/walamrtlabs/hapi) process monitoring
+
+Current version: **0.1.6**
+
+[![Build Status](https://secure.travis-ci.org/spumko/good.png)](http://travis-ci.org/spumko/good)
+
 
 ###<a href="https://github.com/spumko/lout"><img src="https://raw.github.com/spumko/lout/master/images/lout.png" height="125" alt="Lout Logo" /></a>
 Lout is a documentation generator plugin for [**hapi**](https://github.com/spumko/hapi), providing a human-readable guide for every endpoint using the route configuration. The module allows full customization of the output.
