@@ -72,7 +72,7 @@ Current version: **0.1.6**
 
 ***
 
-###<a href="https://github.com/spumko/local"><img src="https://raw.github.com/spumko/catbox/master/images/local.png" height="155" alt="Local Logo" /></a>
+###<a href="https://github.com/spumko/local"><img src="https://raw.github.com/spumko/local/master/images/local.png" height="155" alt="Local Logo" /></a>
 Express to hapi bridge plugin
 
 Current version: **0.0.1**
@@ -90,7 +90,7 @@ Current version: **0.2.1**
 
 ***
 
-###<a href="https://github.com/spumko/scooter"><img src="https://raw.github.com/spumko/catbox/master/images/scooter.png" height="155" alt="Scooter Logo" /></a>
+###<a href="https://github.com/spumko/scooter"><img src="https://raw.github.com/spumko/scooter/master/images/scooter.png" height="155" alt="Scooter Logo" /></a>
 User-agent information plugin for hapi
 
 Current version: **0.1.1**
