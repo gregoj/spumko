@@ -108,7 +108,16 @@ Current version: **0.1.1**
 
 ***
 
-###<a href="https://github.com/spumko/tv"><img src="https://raw.github.com/spumko/tv/master/images/tv.png" height="155" alt="Helmet Logo" /></a>
+###<a href="https://github.com/spumko/travelogue"><img src="https://raw.github.com/spumko/travelogue/master/images/travelogue.png" height="125" alt="Travelogue Logo" /></a>
+Passport.js integration for [**hapi**](https://github.com/spumko/hapi)
+
+Current version: **0.1.3**
+
+[![Build Status](https://secure.travis-ci.org/spumko/travelogue.png)](http://travis-ci.org/spumko/travelogue)
+
+***
+
+###<a href="https://github.com/spumko/tv"><img src="https://raw.github.com/spumko/tv/master/images/tv.png" height="135" alt="Helmet Logo" /></a>
 Interactive debug console for [**hapi**](https://github.com/spumko/hapi)
 
 Current version: **0.1.2**
