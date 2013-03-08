@@ -16,12 +16,30 @@ Current version: **0.14.2**
 
 ## Utilities
 
+###<a href="https://github.com/spumko/catbox"><img src="https://raw.github.com/spumko/catbox/master/images/catbox.png" height="155" alt="Catbox Logo" /></a>
+Multi-strategy object caching service
+
+Current version: **0.1.7**
+
+[![Build Status](https://secure.travis-ci.org/spumko/catbox.png)](http://travis-ci.org/spumko/catbox)
+
+***
+
 ###<a href="https://github.com/spumko/faketoe"><img src="https://raw.github.com/spumko/faketoe/master/images/faketoe.png" height="70" alt="Faketoe Logo" /></a>
 XML to JSON converter
 
 Current version: **0.0.5**
 
 [![Build Status](https://secure.travis-ci.org/spumko/faketoe.png)](http://travis-ci.org/spumko/faketoe)
+
+***
+
+###<a href="https://github.com/spumko/flod"><img src="https://raw.github.com/spumko/flod/master/images/flod.png" height="125" alt="Flod Logo" /></a>
+A systematic toolchain for benchmarking and comparing Node.js web server frameworks. flod enables developers to compare the performance of different versions of their frameworks and to other frameworks.
+
+Current version: **0.0.10**
+
+[![Build Status](https://secure.travis-ci.org/spumko/flod.png)](http://travis-ci.org/spumko/flod)
 
 ***
 
@@ -42,6 +60,7 @@ Current version: **0.1.3**
 
 [![Build Status](https://secure.travis-ci.org/spumko/joi.png)](http://travis-ci.org/spumko/joi)
 
+
 ## Plugins
 
 ###<a href="https://github.com/spumko/good"><img src="https://raw.github.com/spumko/good/master/images/good.png" height="145" alt="Good Logo" /></a>
@@ -51,6 +70,16 @@ Current version: **0.1.6**
 
 [![Build Status](https://secure.travis-ci.org/spumko/good.png)](http://travis-ci.org/spumko/good)
 
+***
+
+###<a href="https://github.com/spumko/local"><img src="https://raw.github.com/spumko/catbox/master/images/local.png" height="155" alt="Local Logo" /></a>
+Express to hapi bridge plugin
+
+Current version: **0.0.1**
+
+[![Build Status](https://secure.travis-ci.org/spumko/local.png)](http://travis-ci.org/spumko/local)
+
+***
 
 ###<a href="https://github.com/spumko/lout"><img src="https://raw.github.com/spumko/lout/master/images/lout.png" height="125" alt="Lout Logo" /></a>
 Lout is a documentation generator plugin for [**hapi**](https://github.com/spumko/hapi), providing a human-readable guide for every endpoint using the route configuration. The module allows full customization of the output.
@@ -58,6 +87,15 @@ Lout is a documentation generator plugin for [**hapi**](https://github.com/spumk
 Current version: **0.2.1**
 
 [![Build Status](https://secure.travis-ci.org/spumko/lout.png)](http://travis-ci.org/spumko/lout)
+
+***
+
+###<a href="https://github.com/spumko/scooter"><img src="https://raw.github.com/spumko/catbox/master/images/scooter.png" height="155" alt="Scooter Logo" /></a>
+User-agent information plugin for hapi
+
+Current version: **0.1.1**
+
+[![Build Status](https://secure.travis-ci.org/spumko/scooter.png)](http://travis-ci.org/spumko/scooter)
 
 ***
 
